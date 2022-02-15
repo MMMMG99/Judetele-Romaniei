@@ -1,1 +1,3 @@
 # Judetele-Romaniei
+
+In cadrul acestui proiect, se cere utilizatorului sa incearca sa ghiceasca toate judetele Romaniei. Acestea sunt importate dintr-un fisier de tip .csv, iar utilizatorul va trebui sa introduca intr-o casuta de dialog un raspuns. Daca acesta reuseste sa ghiceasca unul dintre judete, acesta va aparea pe harta in locul unde se afla acesta. Daca nu reuseste sa ghiceasca, va fi intrebat in continuare dar nu va aparea nimic pe harta. Daca utilizatorul crede ca nu mai poate sa ghiceasca alta judete, introducand in aceeasi casuta de dialog cuvantul exit, programul se va incheia si se va crea un nou fisier .csv in care se vor afla judetele care nu au fost ghicite de catre utilizator mai precis in fisierul judete_de_invatat.
